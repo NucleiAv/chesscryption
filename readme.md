@@ -1,4 +1,4 @@
-# 🔑 Chesscryption
+# Chesscryption
 
 Encrypt files into large sets of chess games stored in PGN format, inspired by the YouTube video "[Storing Files in Chess Games for Free Cloud Storage](https://youtu.be/TUtafoC4-7k?feature=shared)."
 
